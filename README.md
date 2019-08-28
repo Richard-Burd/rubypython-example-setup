@@ -11,6 +11,7 @@ I am running Ubuntu 18.04 and I had to install the ```jdcal``` and ```et_xmlfile
 If you are new to Python like me, you can install the pip package manager then run the following commands in bash:
 1. ```$ pip install jdcal```
 2. ```$ pip install et_xmlfile```
+
 There is a <a href='https://github.com/halostatue/rubypython/issues/28'> discussion here </a>with more detail on this topic.</p>
 
 
