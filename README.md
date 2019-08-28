@@ -25,5 +25,5 @@ I have both the ```pry``` and ```rubypython``` Ruby gems in the ```Gemfile``` bu
 There is a <a href='https://stackoverflow.com/questions/18144087/using-the-rubypython-gem-in-ruby-on-rails-how-do-you-call-a-python-script-from'> discussion here</a> on RubyPython crashing ```$ rails server```.  Check it out if you're planning on using Rails.
 
 ## Passing Values from Ruby to Python
-All of the values in this workspace are strings.  I have had poor luck sharing integers and arrays between Python & Ruby blocks.  I haven't had a chance to collaborate classes or convert Ruby arrays to Python libraries either.  If you have a clean way of doing so, feel free to push some add-ons to this repo.
+All of the values in this workspace are strings.  I have had poor luck sharing integers and arrays between Python & Ruby blocks.  I haven't had a chance to collaborate classes or convert Ruby arrays to Python libraries either.  If you have a clean way of doing any of these things, please feel free to fork-then-push some add-ons to this repo.  For now the string values have to constantly get converted to other data types wherever necessary. 
 
