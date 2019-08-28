@@ -11,8 +11,27 @@ puts "\n"
 # This is the RubyPython Ruby #start method that will start the Python interpreter.
 RubyPython.start 
 
+# This will check to make sure the #start method is working properly.
+# If this fails, you may need to install jdcal and et_xmlfile
 puts "You are now running the RubyPython interpreter" 
 puts "\n"
+
+# PyRun_SimpleString lets you use a heredoc in this very Ruby file
+RubyPython::Python.PyRun_SimpleString <<-PYTHON
+def my_python_function():
+    print("This Python code is in a heredoc in the Ruby file you are currently running")
+PYTHON
+
+# This calls on the "main" Python module
+my_heredoc_reader = RubyPython.import("__main__")
+
+# This will run the Python function in the heredoc above
+my_heredoc_reader.my_python_function()
+puts "\n"
+
+# Now let's get a callback from a Python heredoc in a Ruby file; 
+# This is a Ruby variable.  It can be set from within the Python interpreter or anywhere else in this Ruby file.
+ruby_var_passed_to_python_heredoc = "value defined in Ruby code"
 
 # This is the RubyPython Ruby #end method that will end the Python interpreter.
 RubyPython.stop
