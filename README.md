@@ -19,7 +19,7 @@ I am running Ubuntu 18.04 and I had to install the ```jdcal``` and ```et_xmlfile
 2. ```$ pip install et_xmlfile```
 
 There is a <a href='https://github.com/halostatue/rubypython/issues/28'> discussion here </a>with more detail on this topic.
-I have both the ```pry``` and ```rubypython``` Ruby gems defined in the ```Gemfile``` but you only need the ```RubyPython``` gem installed in order to get this environment working properly.
+I have both the ```pry``` and ```rubypython``` Ruby gems in the ```Gemfile``` but you only need the ```RubyPython``` gem installed in order to get this environment working properly.
 
 ## Ruby on Rails
 There is a <a href='https://stackoverflow.com/questions/18144087/using-the-rubypython-gem-in-ruby-on-rails-how-do-you-call-a-python-script-from'> discussion here</a> on RubyPython crashing ```$ rails server```.  Check it out if you're planning on using Rails.
