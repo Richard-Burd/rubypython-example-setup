@@ -9,9 +9,9 @@ This is setup as a Ruby workspace and not a Python one.  Simply download and run
 ## Prerequisites
 I am running Ubuntu 18.04 and I had to install the ```jdcal``` and ```et_xmlfile``` python libraries in order for the RubyPython gem to work.  Without them I got errors when calling ```RubyPython.start```
 If you are new to Python, you can install the pip package manager then run the following commands in bash:
-```$ pip install jdcal```
-```$ pip install et_xmlfile```
-There is a <a href='https://github.com/halostatue/rubypython/issues/28'>discussion here</a>with more detail on this topic.</p>
+1. ```$ pip install jdcal```
+2. ```$ pip install et_xmlfile```
+There is a <a href='https://github.com/halostatue/rubypython/issues/28'> discussion here</a>with more detail on this topic.</p>
 
 
 
