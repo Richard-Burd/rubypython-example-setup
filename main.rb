@@ -49,5 +49,26 @@ PYTHON
 my_heredoc_reader.another_python_function(ruby_var_passed_to_python_heredoc)
 puts "\n"
 
+# This will run the Python function in the heredoc above
+my_heredoc_reader.another_python_function(ruby_var_passed_to_python_heredoc)
+puts "\n"
+
+# This will call on the import Ruby method
+sys = RubyPython.import("sys")
+
+# This will grab a python script in the root directory.
+sys.path.append('.')
+
+# This will define the python script in the root directory to be grabbed.
+RubyPython.import("py_script_1")
+puts "\n"
+
+# This will grab a Python script in the "lib" directory.
+sys.path.append('./lib') #=> you can also use: "sys.path.append('lib')" instead.
+
+# This will define the python script in the './lib' directory to be grabbed.
+RubyPython.import("py_script_2")
+puts "\n"
+
 # This is the RubyPython Ruby #end method that will end the Python interpreter.
 RubyPython.stop
