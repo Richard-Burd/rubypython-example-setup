@@ -4,7 +4,7 @@
 This is a small wireframe sandbox that I created for using the <a href='https://rubygems.org/gems/rubypython/versions/0.6.3'>RubyPython Ruby gem v.0.6.3</a>.  Here is a <a href='https://i.imgur.com/W9nUnQe.jpg'> diagram of this workspace</a> that shows its functionality.
 
 ## Using This Repo
-This is setup as a Ruby workspace and not a Python one.  Simply download and run ```$ ruby main.rb``` in bash and you will see the following series of printed strings if everything is working properly"
+This is setup as a Ruby workspace and not a Python one.  Simply download and run ```$ ruby main.rb``` in bash and you will see the following series of printed strings if everything is working properly:
 1. ```Welcome to the RubyPython Interpreter Page.```
 2. ```You are now running the RubyPython interpreter.```
 3. ```This Python code is in a heredoc in the Ruby file you are currently running.```
