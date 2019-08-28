@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.8000002in"
+   height="3in"
+   viewBox="0 0 121.92 76.200003"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Diagram.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="269.02338"
+     inkscape:cy="148.91444"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-page="true"
+     inkscape:snap-text-baseline="true"
+     units="in" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-220.79999)">
+    <rect
+       style="opacity:1;fill:#ffd2c5;fill-opacity:1;fill-rule:nonzero;stroke:#ca4454;stroke-width:0.35277778;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815"
+       width="52.345013"
+       height="54.870434"
+       x="64.541779"
+       y="237.52193"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#782121;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.880363"
+       y="241.82593"
+       id="text10"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         x="66.880363"
+         y="241.82593"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Calibri;-inkscape-font-specification:'Calibri Italic';fill:#782121;stroke-width:0.26458332">Ruby File.rb</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#782121;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="68.573463"
+       y="246.02306"
+       id="text10-0"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-7"
+         x="68.573463"
+         y="246.02306"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666656px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#782121;stroke-width:0.26458332">ruby code here ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#782121;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="68.573463"
+       y="288.55624"
+       id="text10-0-6"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-7-1"
+         x="68.573463"
+         y="288.55624"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666656px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#782121;stroke-width:0.26458332">ruby code here ...</tspan></text>
+    <rect
+       style="opacity:1;fill:#c8b7b7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.09447664;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-2-7"
+       width="43.702168"
+       height="34.945766"
+       x="68.475716"
+       y="248.9745"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.421577"
+       y="253.19556"
+       id="text10-7-0"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-1-4"
+         x="70.421577"
+         y="253.19556"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Calibri;-inkscape-font-specification:'Calibri Italic';fill:#241c1c;fill-opacity:1;stroke-width:0.26458332">RubyPython Interpreter</tspan></text>
+    <rect
+       style="opacity:1;fill:#fffcc5;fill-opacity:1;fill-rule:nonzero;stroke:#447bca;stroke-width:0.35277778;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-2-0"
+       width="34.815796"
+       height="12.658599"
+       x="72.822441"
+       y="262.15408"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#782121;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="72.710823"
+       y="258.34598"
+       id="text10-0-69"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-7-0"
+         x="72.710823"
+         y="258.34598"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666656px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#782121;stroke-width:0.26458332">ruby code here ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#213178;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="74.768303"
+       y="266.37512"
+       id="text10-7-7"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-1-7"
+         x="74.768303"
+         y="266.37512"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Calibri;-inkscape-font-specification:'Calibri Italic';fill:#213178;fill-opacity:1;stroke-width:0.26458332">Python heredoc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#213178;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="76.747139"
+       y="270.96655"
+       id="text10-0-0-5"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-7-2-6"
+         x="76.747139"
+         y="270.96655"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666656px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#213178;fill-opacity:1;stroke-width:0.26458332">Python code here ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#782121;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="72.710823"
+       y="279.71252"
+       id="text10-0-6-5"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-7-1-1"
+         x="72.710823"
+         y="279.71252"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666656px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#782121;stroke-width:0.26458332">ruby code here ...</tspan></text>
+    <rect
+       style="opacity:1;fill:#fffcc5;fill-opacity:1;fill-rule:nonzero;stroke:#447bca;stroke-width:0.34000298;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-2-0-7"
+       width="34.828571"
+       height="36.672859"
+       x="4.5933428"
+       y="246.18054"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#213178;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.5455828"
+       y="250.40797"
+       id="text10-7-7-6"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-1-7-1"
+         x="6.5455828"
+         y="250.40797"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Calibri;-inkscape-font-specification:'Calibri Italic';fill:#213178;fill-opacity:1;stroke-width:0.26458332">Python File.py</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#213178;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="8.5244112"
+       y="266.24414"
+       id="text10-0-0-5-0"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-7-2-6-8"
+         x="8.5244112"
+         y="266.24414"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666656px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#213178;fill-opacity:1;stroke-width:0.26458332">Python code here ...</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37.229338,254.13482 -4.44753,4.44892 4.44753,4.44892 v -1.11223 h 32.49336 v -6.67338 h -32.49336 z"
+       id="path1029-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="36.260479"
+       y="259.24622"
+       id="text10-7-0-1"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-1-4-8"
+         x="36.260479"
+         y="259.24622"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri Italic';fill:#241c1c;fill-opacity:1;stroke-width:0.26458332">Ruby code passed to Python</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 65.766958,270.63771 4.44753,4.44891 -4.44753,4.44892 v -1.11223 h -30.37669 v -6.67338 h 30.37669 z"
+       id="path1029-6-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="38.438885"
+       y="275.79636"
+       id="text10-7-0-1-7"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-1-4-8-5"
+         x="38.438885"
+         y="275.79636"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri Italic';fill:#241c1c;fill-opacity:1;stroke-width:0.26458332">Python callback to Ruby</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 106.46887,260.58472 -4.44892,3.32775 -4.448902,-3.32775 h 1.11223 v -0.77677 h 6.673362 v 0.77677 z"
+       id="path1029-6-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 106.3416,273.3947 -4.44892,3.32775 -4.448902,-3.32775 h 1.11223 v -0.77677 h 6.673362 v 0.77677 z"
+       id="path1029-6-3-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="8.7337542"
+       y="237.67824"
+       id="text10-7-0-1-8"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-1-4-8-3"
+         x="8.7337542"
+         y="237.67824"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri Italic';fill:#241c1c;fill-opacity:1;stroke-width:0.26458332">Ruby code passed to Python</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.3458223"
+       y="237.65205"
+       id="text10-7-0-1-8-0"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-1-4-8-3-9"
+         x="4.3458223"
+         y="237.65205"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold Italic';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.3690996"
+       y="241.4019"
+       id="text10-7-0-1-8-0-8"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-1-4-8-3-9-8"
+         x="4.3690996"
+         y="241.4019"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold Italic';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.4273653"
+       y="237.82469"
+       id="text10-7-0-1-8-0-8-2"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-1-4-8-3-9-8-6"
+         x="6.4273653"
+         y="237.82469"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri Italic';fill:#000080;fill-opacity:1;stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.4281359"
+       y="241.57455"
+       id="text10-7-0-1-8-0-8-2-5"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-1-4-8-3-9-8-6-4"
+         x="6.4281359"
+         y="241.57455"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri Italic';fill:#000080;fill-opacity:1;stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="8.6190996"
+       y="241.4019"
+       id="text10-7-0-1-7-4"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-1-4-8-5-2"
+         x="8.6190996"
+         y="241.4019"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri Italic';fill:#241c1c;fill-opacity:1;stroke-width:0.26458332">Python callback to Ruby</tspan></text>
+    <text
+       id="text10-7-0-1-8-0-1"
+       y="262.15408"
+       x="101.33212"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold Italic';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+         y="262.15408"
+         x="101.33212"
+         id="tspan8-1-4-8-3-9-1"
+         sodipodi:role="line">a</tspan></text>
+    <text
+       id="text10-7-0-1-8-0-8-7"
+       y="275.17981"
+       x="101.16499"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold Italic';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+         y="275.17981"
+         x="101.16499"
+         id="tspan8-1-4-8-3-9-8-4"
+         sodipodi:role="line">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.81975842px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.3204393"
+       y="232.21739"
+       id="text10-9"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-3"
+         x="4.3204393"
+         y="232.21739"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.12790322px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.43656251px;fill:#333333;stroke-width:0.26458332">https://github.com/Richard-Burd/rubypython-example-setup.git</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.63345146px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#782121;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.3817949"
+       y="228.43826"
+       id="text10-9-6"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701"><tspan
+         sodipodi:role="line"
+         id="tspan8-3-5"
+         x="4.3817949"
+         y="228.43826"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.2533803px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:1.00663793px;fill:#808080;stroke-width:0.26458332">Schematic Diagram of This Workspace</tspan></text>
+    <g
+       id="g1260-3"
+       transform="translate(-75.130824,240.20753)"
+       inkscape:export-xdpi="347.49701"
+       inkscape:export-ydpi="347.49701">
+      <text
+         id="text10-7-0-1-8-0-10"
+         y="46.001656"
+         x="79.533493"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#241c1c;fill-opacity:1;stroke-width:0.26458332"
+           y="46.001656"
+           x="79.533493"
+           sodipodi:role="line"
+           id="tspan1373">This repo features Ruby code collaborating with </tspan></text>
+      <text
+         id="text10-7-0-1-8-0-10-5"
+         y="48.964439"
+         x="79.317139"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#241c1c;fill-opacity:1;stroke-width:0.26458332"
+           y="48.964439"
+           x="79.317139"
+           sodipodi:role="line"
+           id="tspan1373-9">Python code located in both a &lt;.py&gt; file and</tspan></text>
+      <text
+         id="text10-7-0-1-8-0-10-5-3"
+         y="51.925842"
+         x="79.317139"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#241c1c;fill-opacity:1;stroke-width:0.26458332"
+           y="51.925842"
+           x="79.317139"
+           sodipodi:role="line"
+           id="tspan1373-9-7">Python code located in a Ruby &lt;.rb&gt; heredoc </tspan></text>
+    </g>
+  </g>
+</svg>
