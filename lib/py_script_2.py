@@ -1,1 +1,1 @@
-print("This Python file is being read by Ruby in the 'lib' directory.")
+print("6. This Python file is being read by Ruby in the 'lib' directory.")

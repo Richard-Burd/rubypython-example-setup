@@ -1,7 +1,7 @@
 require 'pry'
 require "rubypython"
 
-puts "Welcome to the RubyPython Interpreter Page."
+puts "1. Welcome to the RubyPython Interpreter Page."
 puts "\n"
 
 # WARNING: According to this guy here: 
@@ -13,13 +13,13 @@ RubyPython.start
 
 # This will check to make sure the #start method is working properly.
 # If this fails, you may need to install jdcal and et_xmlfile
-puts "You are now running the RubyPython interpreter." 
+puts "2. You are now running the RubyPython interpreter." 
 puts "\n"
 
 # PyRun_SimpleString lets you use a heredoc in this very Ruby file
 RubyPython::Python.PyRun_SimpleString <<-PYTHON
 def my_python_function():
-    print("This Python code is in a heredoc in the Ruby file you are currently running.")
+    print("3. This Python code is in a heredoc in the Ruby file you are currently running.")
 PYTHON
 
 # This calls on the "main" Python module
@@ -41,7 +41,7 @@ ruby_var_passed_to_python_heredoc = "value defined in Ruby code"
 # Here is one that works properly using the <"...%()s" % locals()> syntax:
 RubyPython::Python.PyRun_SimpleString <<-PYTHON
 def another_python_function(variable):
-    print("This Python code (also in a heredoc) is accepting a %(variable)s." % locals())
+    print("4. This Python code (also in a heredoc) is accepting a %(variable)s." % locals())
     return "The interpreter can return a %(variable)s." % locals()
 PYTHON
 
