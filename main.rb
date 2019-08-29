@@ -29,10 +29,6 @@ puts "\n"
 # This is a Ruby variable.  It can be set from within the Python interpreter or anywhere else in this Ruby file.
 ruby_var_passed_to_python_heredoc = "value defined in Ruby code"
 
-# Now let's get a callback from a Python heredoc in a Ruby file; 
-# This is a Ruby variable.  It can be set from within the Python interpreter or anywhere else in this Ruby file.
-ruby_var_passed_to_python_heredoc = "value defined in Ruby code"
-
 # Python has several string interpolation methods but they don't all work properly with RubyPython
 # Here is one that works properly using the <"...%()s" % locals()> syntax:
 RubyPython::Python.PyRun_SimpleString <<-PYTHON
