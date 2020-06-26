@@ -1,15 +1,16 @@
 require 'pry'
+require 'pry-byebug'
 require "rubypython"
 
 puts "1. Welcome to the RubyPython Interpreter Page."
 puts "\n"
 
 # This is the RubyPython Ruby #start method that will start the Python interpreter.
-RubyPython.start 
+RubyPython.start
 
 # This will check to make sure the #start method is working properly.
 # If this fails, you may need to install jdcal and et_xmlfile
-puts "2. You are now running the RubyPython interpreter." 
+puts "2. You are now running the RubyPython interpreter."
 puts "\n"
 
 # PyRun_SimpleString lets you use a heredoc in this very Ruby file
@@ -25,7 +26,7 @@ my_heredoc_reader = RubyPython.import("__main__")
 my_heredoc_reader.my_python_function()
 puts "\n"
 
-# Now let's get a callback from a Python heredoc in a Ruby file; 
+# Now let's get a callback from a Python heredoc in a Ruby file;
 # This is a Ruby variable.  It can be set from within the Python interpreter or anywhere else in this Ruby file.
 ruby_var_passed_to_python_heredoc = "value defined in Ruby code"
 
