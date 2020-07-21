@@ -5,10 +5,16 @@
 This is a small wireframe sandbox that I created for using the <a href='https://rubygems.org/gems/rubypython/versions/0.6.3'>RubyPython Ruby gem v.0.6.3</a>.  
 <a href="https://imgur.com/W9nUnQe"><img src="https://i.imgur.com/W9nUnQe.jpg" title="source: imgur.com" /></a>
 
+## Prerequisites
+I am running Ubuntu 18.04 and I had to install the `jdcal` and `et_xmlfile` Python libraries in order for the RubyPython gem to work.  Without them I got errors when calling `RubyPython.start`.  If you are new to Python, you can install the pip package manager then run the following commands in bash:
+1. `$ pip install jdcal`
+2. `$ pip install et_xmlfile`
+
 ## Using This Repo
 This is setup as a Ruby workspace and not a Python one.&nbsp;  To use this program, enter the following commands into your console:
-1.) `$ bundle install` ... to install the [Ruby gems](https://rubygems.org/)
- 2.)```$ ruby main.rb``` ... to run the actual program.
+1. `$ gem install bundler` ... to install [Bundler](https://bundler.io/) if you don't already have it installed.
+2. `$ bundle install` ... to install the [Ruby gems](https://rubygems.org/)
+3. `$ ruby main.rb` ... to run the actual program.
 
 When the program is executed, you will see the following series of printed strings if everything is working properly:
 1. `Welcome to the RubyPython Interpreter Page.`
@@ -17,12 +23,7 @@ When the program is executed, you will see the following series of printed strin
 4. `This Python code (also in a heredoc) is accepting a value defined in Ruby code.`
 5. `This Python file is being read by Ruby in the root directory.`
 6. `This Python file is being read by Ruby in the 'lib' directory.`
-7. `This is a Ruby string being passed to (and called back from) a Python function that is defined in a seperate Python file.`
-
-## Prerequisites
-I am running Ubuntu 18.04 and I had to install the `jdcal` and `et_xmlfile` Python libraries in order for the RubyPython gem to work.  Without them I got errors when calling `RubyPython.start`.  If you are new to Python, you can install the pip package manager then run the following commands in bash:
-1. `$ pip install jdcal`
-2. `$ pip install et_xmlfile`
+7. `This is a Ruby string being passed to (and called back from) a Python function that is defined in a separate Python file.`
 
 There is a <a href='https://github.com/halostatue/rubypython/issues/28'> discussion here </a>with more detail on this topic.
 I have the `pry`, `pry-byebug`, and `rubypython` Ruby gems in the `Gemfile` but you only need the `RubyPython` gem installed in order to get this environment working properly.
